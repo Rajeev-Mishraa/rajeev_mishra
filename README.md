@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Rajeev-Mishraa/new-url/blob/f4cc492d7b6e5fd45f9e9f3ae75fc11a1d2df05e/%2B9315104301.png)
+![MasterHead](https://github.com/Rajeev-Mishraa/Excel_Dashboard_Project/blob/main/LinkedIn-Banner.png)
 <h1 align="center">Hi 👋, I'm Rajeev Mishra</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
