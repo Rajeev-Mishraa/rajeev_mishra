@@ -1,4 +1,4 @@
-[![MasterHead](https://www.knowi.com/wp-content/uploads/2019/12/Big-Data-Banner.jpg)]
+![MasterHead](https://github.com/Rajeev-Mishraa/new-url/blob/f4cc492d7b6e5fd45f9e9f3ae75fc11a1d2df05e/%2B9315104301.png)
 <h1 align="center">Hi 👋, I'm Rajeev Mishra</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajindi15468173" target="blank"><img src="https://img.shields.io/twitter/follow/rajindi15468173?logo=twitter&style=for-the-badge" alt="rajindi15468173" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, Power BI**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Data Manipulation**
 
